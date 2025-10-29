@@ -494,7 +494,7 @@ Write it clean, simulate it thoroughly, and synthesize it smartly.*
 
 ## **Topic**
 
-   - 1. short description
+   - 1. Description
 
    - 2. Real life uses. 
 
