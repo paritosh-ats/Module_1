@@ -486,3 +486,28 @@ Write it clean, simulate it thoroughly, and synthesize it smartly.*
 🧩 *This roadmap bridges Verilog learning with actual VLSI RTL design workflow — from writing your first module to taping out a working chip.*
  
 </details>
+
+
+<details>
+  <summary>🔹 To Do </summary>
+
+
+# **Topic**
+
+   - 1. short description
+
+   - 2. Real life uses. 
+
+   - 3. Interview questions 
+
+   - 4. Code Example
+    - 4.1. RTL code 
+    - 4.2. LINT Clean
+    - 4.3. CDC (if Required)
+    - 4.4. makefile - perl
+
+   - 5. Learning 
+
+</details>
+
+
